@@ -1,0 +1,8 @@
+# Ignore Python files
+venv/
+*.pyc
+
+# Ignore dev files
+.source
+*.sublime-project
+*.sublime-workspace
